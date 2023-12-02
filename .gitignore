@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/GroceryComparer/GroceryComparer2/appsettings.json
+/GroceryComparer/GroceryComparer.UI.MVC/appsettings.json
